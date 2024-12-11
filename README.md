@@ -1,25 +1,40 @@
-# Car accidents in NYC
-Analysis of data related to car accidents in New York - ALK project
+# Car Accidents in NYC - Data Analysis Project
 
-The objective of the project is to analyze the data contained in the selected dataset.
-The project should primarily demonstrate the following stages:
+### Project Overview
 
-	•	data loading
-	•	data cleaning
-	•	data transformation
-	•	presentation of results and conclusions
+This project analyzes car accident data in New York City, as part of the ALK project. The primary goal is to investigate the dataset, uncover patterns, and provide insights into the factors contributing to car accidents across different boroughs in NYC.
 
-Analysis of Car Accident Data in NY, which should include:
+Objectives
 
-	•	Checking, describing, and preparing the data
-	•	Identifying the most dangerous accident factors in each NYC borough
-	•	Presenting the number of deaths and injuries caused by speeding in each borough
-	•	Determining the three most common accident factors by borough and overall for the entire city
-	•	Identifying which types of vehicles are most frequently involved in accidents
-	•	Providing statistics on the number of accidents for each borough
-	•	Most common accident locations (optional)
-	•	Conclusions
+The analysis focuses on the following key stages:
 
-To present the results, visualizations should be used.
+	•	Data Loading: Importing and preparing the dataset for analysis.
+	•	Data Cleaning: Handling missing values, data inconsistencies, and ensuring data quality.
+	•	Data Transformation: Organizing the data for meaningful analysis, including filtering, aggregation, and feature engineering.
+	•	Result Presentation: Generating visualizations and summarizing findings to draw conclusions.
+
+### Analysis Scope
+
+The project aims to answer specific questions about car accidents in NYC:
+
+	1.	Data Preparation: Verify, describe, and prepare the data for analysis.
+	2.	Risk Factors by Borough: Identify the most dangerous accident factors in each NYC borough.
+	3.	Impact of Speeding: Present the number of fatalities and injuries caused by speeding in each borough.
+	4.	Top Accident Factors: Determine the three most common factors contributing to accidents, by borough and for NYC as a whole.
+	5.	Vehicle Types: Identify the types of vehicles most frequently involved in accidents.
+	6.	Accident Statistics by Borough: Provide detailed accident statistics for each borough.
+	7.	Frequent Accident Locations (Optional): Identify locations with a high frequency of accidents, if data allows.
+
+### Conclusions
+
+The analysis should culminate in key findings, trends, and actionable insights to improve road safety in NYC.
+
+### Visualizations
+
+To effectively communicate the findings, visualizations (e.g., bar charts, heatmaps, maps) will be used to illustrate the distribution of accidents, key factors, and any geographical patterns.
+
+### Getting Started
+
+To get started with this project, clone the repository and install the necessary packages from 'requirements.txt'. Data files should be placed in the designated data folder.
 
 [DataSet](https://drive.google.com/drive/folders/1JxB0QqVtkROTXQxgdVBfpoGX1hFl-7O-)
