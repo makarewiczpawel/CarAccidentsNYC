@@ -2,28 +2,28 @@
 
 ### Project Overview
 
-This project analyzes car accident data in New York City, as part of the ALK project. The primary goal is to investigate the dataset, uncover patterns, and provide insights into the factors contributing to car accidents across different boroughs in NYC.
+This project analyzes car accident data in New York City, as part of the ALK project.
+The primary goal is to investigate the dataset and provide insights into the factors contributing to car accidents across different boroughs in NYC.
 
 Objectives
 
-The analysis focuses on the following key stages:
+The analysis focuses on the following 4 stages:
 
-	•	Data Loading: Importing and preparing the dataset for analysis.
-	•	Data Cleaning: Handling missing values, data inconsistencies, and ensuring data quality.
-	•	Data Transformation: Organizing the data for meaningful analysis, including filtering, aggregation, and feature engineering.
-	•	Result Presentation: Generating visualizations and summarizing findings to draw conclusions.
+	1. Data loading
+	2. Data cleaning
+	3. Data transformation
+	4. Result presentation
 
 ### Analysis Scope
 
 The project aims to answer specific questions about car accidents in NYC:
 
-	1.	Data Preparation: Verify, describe, and prepare the data for analysis.
-	2.	Risk Factors by Borough: Identify the most dangerous accident factors in each NYC borough.
-	3.	Impact of Speeding: Present the number of fatalities and injuries caused by speeding in each borough.
-	4.	Top Accident Factors: Determine the three most common factors contributing to accidents, by borough and for NYC as a whole.
-	5.	Vehicle Types: Identify the types of vehicles most frequently involved in accidents.
-	6.	Accident Statistics by Borough: Provide detailed accident statistics for each borough.
-	7.	Frequent Accident Locations (Optional): Identify locations with a high frequency of accidents, if data allows.
+	1.	Most dangerous factors by borough. Identify the most dangerous accident factors in each NYC borough.
+	2.	Impact of Speeding. Present the number of deaths and injuries caused by speeding in each borough.
+	3.	Top Accident Factors. Determine the three most common factors contributing to accidents, by borough and for NYC as a whole.
+	4.	Vehicle Types. Identify the types of vehicles most frequently involved in accidents.
+	5.	Accident Statistics by Borough. Provide detailed accident statistics for each borough.
+	6.	Frequent Accident Locations (Optional). Identify locations with a high frequency of accidents, if data allows.
 
 ### Conclusions
 
