@@ -5,14 +5,15 @@
 This project analyzes car accident data in New York City, as part of the ALK project.
 The primary goal is to investigate the dataset and provide insights into the factors contributing to car accidents across different boroughs in NYC.
 
-Objectives
+The main goal of the project is to identify the main causes of car accidents in New York City, broken down by borough, and to draw conclusions from the data analysis.
 
 The analysis focuses on the following 4 stages:
 
 	1. Data loading
 	2. Data cleaning
 	3. Data transformation
-	4. Result presentation
+	4. Data analysis and result presentation
+    5. Conclusions
 
 ### Analysis Scope
 

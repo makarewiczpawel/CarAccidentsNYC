@@ -4,3 +4,5 @@ seaborn==0.13.2
 matplotlib==3.9.2
 streamlit~=1.41.0
 plotly~=5.24.1
+geopandas==1.0.1
+osmnx==2.0.1
